@@ -30,10 +30,6 @@ var movies = [
   {
     image: "img/hills.jpg",
     name: "Hills have eyes"
-  },
-  {
-    image: "img/limitless.jpg",
-    name: "Limitless"
   }
 ];
 
